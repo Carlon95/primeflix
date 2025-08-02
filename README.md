@@ -55,42 +55,30 @@ _Detalhes do filme com sinopse e player de trailer_
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/seu-usuario/primeflix.git
-Entre na pasta do projeto:
-
-bash
-Copiar
-Editar
+# Entre na pasta do projeto:
 cd primeflix
-Instale as dependências:
 
-bash
-Copiar
-Editar
+# Instale as dependências:
 npm install
 # ou
 yarn install
-Crie um arquivo .env na raiz do projeto e adicione sua chave da API TMDb:
 
-ini
-Copiar
-Editar
+# Crie um arquivo .env na raiz do projeto e adicione sua chave da API TMDb:
+
 REACT_APP_TMDB_API_KEY=sua_api_key_aqui
-Inicie o servidor de desenvolvimento:
 
-bash
-Copiar
-Editar
+
+# Inicie o servidor de desenvolvimento:
+
 npm start
 # ou
 yarn start
-Acesse no navegador: http://localhost:3000
 
-Estrutura do Projeto
-bash
-Copiar
-Editar
+# Acesse no navegador: http://localhost:3000
+
+# Estrutura do Projeto
+
 /src
   /components   # Componentes React reutilizáveis
   /pages        # Páginas da aplicação
@@ -98,7 +86,8 @@ Editar
   /styles       # Arquivos CSS e estilizações
   App.js        # Componente principal
   index.js      # Ponto de entrada
-Roadmap
+
+## Roadmap
  Integração com API TMDb para exibir filmes e séries
 
  Sistema de busca por título
@@ -117,8 +106,8 @@ Roadmap
 
  Deploy automatizado via CI/CD
 
-Como Contribuir
-Contribuições são bem-vindas! Para contribuir:
+## Como Contribuir
+#Contribuições são bem-vindas! Para contribuir:
 
 Faça um fork do projeto
 
