@@ -1,7 +1,5 @@
 # PrimeFlix
 
-![PrimeFlix Logo](https://primeflix-2ic7e3g78-carlon95s-projects.vercel.app/favicon.ico)
-
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-green)
@@ -30,13 +28,13 @@ Acesse a aplicação no link abaixo para testar sem necessidade de instalação:
 
 ## Screenshots
 
-![Tela inicial mostrando os filmes populares](./screenshots/home.png)  
+  
 _Tela inicial mostrando filmes populares_
 
-![Busca por filme ou série](./screenshots/search.png)  
+ 
 _Tela de busca por título_
 
-![Detalhes do filme com trailer](./screenshots/movie-details.png)  
+
 _Detalhes do filme com sinopse e player de trailer_
 
 > **Obs:** Para adicionar as imagens, crie a pasta `/screenshots` na raiz do projeto e adicione os arquivos de imagem lá.
